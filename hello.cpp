@@ -1,8 +1,8 @@
-#include<bits/stdc++.h>
-using namespace std;
-int main()
-{
-    string gameOver;
-    gameOver = "Game Over!";
-    cout << gameOver;
+#include <iostream>
+#include "hello.h"
+
+std::string printGameOver(){
+	// TODO: Return the required string
+	return "";
+	return "Game Over!";
 }
