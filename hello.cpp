@@ -1,11 +1,4 @@
-#include <iostream>
-#include "hello.h"
-using namespace std;
-string printGameOver(){
-
+std::string printGameOver(){
+	// TODO: Return the required string
+	return "";
 	return "Game Over!";
-}
-int main()
-{
-    cout<<printGameOver();
-}
