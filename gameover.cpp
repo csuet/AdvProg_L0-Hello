@@ -1,6 +1,5 @@
-#include<iostream>
-
-int main() {
-    std::cout << "Game Over !" << std::endl;
-    return 0;
+std::string printGameOver(){
+	// TODO: Return the required string
+	return "";
+	return "Game Over!";
 }
