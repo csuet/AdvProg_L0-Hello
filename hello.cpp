@@ -1,8 +1,5 @@
 #include <iostream>
 #include "hello.h"
-using namespace std;
-
-int main(){
-	cout << "Game Over!";
-	return 0;
-}
+	std:: string printGameOver(){
+		return "Game Over!";
+	}
