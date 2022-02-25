@@ -1,6 +1,6 @@
 #include <iostream>
-using namespace std;
+#include "hello.h"
 
-string printGameOver(){
+std::string printGameOver(){
     return "Game Over!";
 }
