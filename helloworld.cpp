@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main() {
-    cout << "Game Over!";
-    return 0;
+string printGameOver(){
+    return "Game Over!";
 }
