@@ -1,6 +1,6 @@
 #include <iostream>
-using namespace std;
+#include "hello.h"
 
 int main(){
-    cout << printGameOver() << endl ;
+    std::cout << printGameOver() << std::endl ;
 }
