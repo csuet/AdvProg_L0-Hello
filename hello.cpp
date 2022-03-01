@@ -2,5 +2,6 @@
 #include "hello.h"
 
 std::string printGameOver(){
-	return "Game over!";
+	// TODO: Return the required string
+	return "Game Over!";
 }
