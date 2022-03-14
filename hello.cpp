@@ -1,7 +1,6 @@
 #include <iostream>
 #include "hello.h"
 
-int main(){
-    std::cout << printGameOver();
-	return 0;
+std::string printGameOver(){
+	return "Game Over!";
 }
